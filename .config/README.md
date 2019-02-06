@@ -1,1 +1,3 @@
-Pasta para criação de arquivos de configuração de um app. Crie uma pasta com o nome do app.
+This folder should be used to host the app specific configuration files. Create a folder with the app name.
+
+

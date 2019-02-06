@@ -1,1 +1,3 @@
-Pasta para colocação de arquivos específicos de um app. Crie um diretório com o nome do app.
+This folder should be used to host the app specific data files. Create a folder with the app name.
+
+

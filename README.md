@@ -1,5 +1,5 @@
-Esta pasta foi criada para ser utilizada como ambiente de disco para projetos desktop em desenvolvimento.
+This project was created as a disk environment to desktop projects under development. The goal is isolate the system folders (`~/.config`, `~/.local`, etc) and allow that a production and a development version could coexist in a same machine, with no risk of the development version alter production data.
 
-O objetivo é isolar as pastas de sistema, como por exemplo as pastas `~/.config`, `~/.local`, etc.
+This project is just a folder structure to be used as model. To use it, just clone it, delete the .git directory and configure your project to use this structure in development environment.
 
-Esse isolamento permite que na mesma máquina possa existir uma versão de desenvolvimento e uma versão de produção de um mesmo app, sem risco de a versão de desenvolvimento interferir na versão de produção.
+
